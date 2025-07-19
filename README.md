@@ -1,3 +1,3 @@
 # FlyingBirdWeather
 
-http://newnew.hjhbtech.com/app/video/list?channel=22&sort=addtime&limit=10&page=1
+curl -X GET 'http://newnew.hjhbtech.com/app/video/list?channel=22&sort=addtime&limit=10&page=1' -H 'User-Agent: Dart/3.6 (dart:io)' -H 'Accept-Encoding: gzip' -H 'x-version: 2024-09-24' -H 'appid: 4150439554430627' -H 'ts: 1752942448053' -H 'authentication: WFmq75Mx0PyDuqmALRLRFZRedUuXG1CpUUt0kLAy4JIPuqW9YMkNYNQzKepugXK9KFi7ad8VIo7WZaQEKYDSI2GTo80FAL+r085euCxc4QyDfYgW4mFoybTTWdV0UjzDGAGi0yTlB7/IYzQ0VOcPOw==' -H 'tcs: 2' -H 'content-type: application/json; charset=utf-8' -H 'x-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVVUlEIjoiYzVlMDZkNzktZmRkMy00NzRjLTkzY2ItODBhNGY2YTYxYzJkIiwiQnVmZmVyVGltZSI6ODY0MDAwMDAwMDAwMDAsImV4cCI6MTc1MzU0MDMyMSwibmJmIjoxNzUyOTM1NTIxfQ.HoxyiNigvKGYjBAW78gsXn28K2g4UoHIAmkPaW6aO-s'
